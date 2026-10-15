@@ -301,7 +301,7 @@
 
   <footer class="footer">
     <div class="container footer-inner">
-      <a class="brand" href="#home">Thanks Bray Salam Kenal...</span></a>
+      <a class="brand" href="#home">Thanks Bray Salam Kenal...</a>
       <p>© <span id="year"></span> Syaly Darma Prayoga</p>
       <a href="#home">Kembali ke atas ↑</a>
     </div>
