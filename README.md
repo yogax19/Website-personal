@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html lang="id">
 <head>
   <meta charset="UTF-8">
@@ -156,7 +155,7 @@
 <body>
   <header class="site-header">
     <nav class="nav container" aria-label="Navigasi utama">
-      <a class="brand" href="#home" aria-label="Syaly Darma Prayoga - beranda">YOGA BUKAN AGOY</span></a>
+      <a class="brand" href="#home" aria-label="Syaly Darma Prayoga - beranda">YOGA BUKAN AGOY</a>
       <button class="menu-toggle" type="button" aria-label="Buka navigasi" aria-expanded="false" aria-controls="nav-links">☰</button>
       <ul class="nav-links" id="nav-links">
         <li><a href="#home">Beranda</a></li>
@@ -283,10 +282,9 @@
         <div><strong>∞</strong><span>Semangat Belajar</span></div>
       </div>
     </section>
-
-    <section class="section section-muted" id="contact">
+  <section class="section section-muted" id="contact">
       <div class="container contact-wrap">
-        <div class="section-heading align-left">
+        <div class="section-heading align-">
           <p class="eyebrow">Mari Terhubung</p>
           <h2>Hubungi Saya</h2>
           <p>Terbuka untuk diskusi, kolaborasi, dan kesempatan kerja yang relevan.</p>
