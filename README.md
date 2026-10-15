@@ -170,7 +170,7 @@
   <main>
     <section class="hero" id="home">
       <div class="container hero-content">
-        <p class="eyebrow">Portofolio Profesional</p>
+        <p class="eyebrow">Portofolio</p>
         <h1>Halo, saya <span>Syaly Darma Prayoga</span></h1>
         <p class="hero-subtitle">IT Enthusiast · Cyber Security · Networking · MEP &amp; Electrical</p>
         <p class="hero-copy">Menggabungkan minat di bidang teknologi informasi dengan pengalaman teknis untuk membantu membangun solusi yang aman, efektif, dan bermanfaat.</p>
